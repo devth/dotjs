@@ -9,7 +9,7 @@ $(function() {
             .attr("href", "spotify:search:'" + search + "'")
             .attr("style", "color: white;")
             .html("<b>" + search + "</b>" + " on Spotify"))
-          .attr("style", "position: fixed; z-index: 1000; top: 0; right: 0; background: black; padding: 10px; color: white !important;")));
+          .attr("style", "position: fixed; z-index: 2005999999; top: 0; right: 0; background: black; padding: 10px; color: white !important;")));
     }
   }
 });
