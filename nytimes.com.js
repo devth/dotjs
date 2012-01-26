@@ -1,4 +1,4 @@
-$(window).load(function() {
+$(function() {
   // Hide annoying dictionary icon that appears when selecting text
   $('head')
     .append($("<style type='text/css' />")
