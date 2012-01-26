@@ -1,5 +1,6 @@
 # dotjs scripts
 
+<hr />
 
 ## Pitchfork.com
 
@@ -7,9 +8,13 @@ Adds a fixed-positioned button to find an artist/album in Spotify when on a Pitc
 
 <img src="http://f.cl.ly/items/3S312u3G3y323c183V1Y/Screen%20Shot%202011-10-11%20at%2011.02.24%20AM.png" />
 
+<hr />
+
 ## Nytimes.com
 
 Removes annoying dictionary icon when selecting text.
+
+<hr />
 
 ## Rally
 
